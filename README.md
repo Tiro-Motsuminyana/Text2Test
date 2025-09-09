@@ -1,2 +1,2 @@
 # Text2Test
-Text2test is an AI powered solution that assesses the quality of the documentation and after generates tests based off of it. It generates from unit,integration, acceptance to full system tests. Forms part of a development pipeline.
+Test2Text is an AI-powered automated testing companion that generates, updates, and enhances test coverage for any codebase based on its existing documentation. It uses Anthropic Claude 3.5 Sonnet to analyze documentation, generate tests, and suggest improvements. Tests are only generated if documentation is clear; otherwise, it provides actionable feedback. Test2Text integrates with Git to automatically generate new tests for modified or added code, aiming for 100 percent test coverage.
